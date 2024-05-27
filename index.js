@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["DM me to contact the Office of Special Investigations."];
 
 
 let currentIndex = 0;
